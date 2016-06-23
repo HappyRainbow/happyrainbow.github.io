@@ -1,10 +1,10 @@
----
+ ---
 layout: Rules of my favourite game
 title: Helpful tasks for new player in Skyrim 
 ---
 
-*Hello, my name is Happy Rainbow my blog about nothing it just training.
-i want to say about my favourite game named Skyrim
+* Hello, my name is Happy Rainbow my blog about nothing it just training.
+ i want to say about my favourite game named Skyrim
 *Rules of game
 *What's the Best Way to play?
 1.Create your character
