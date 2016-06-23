@@ -23,3 +23,4 @@ You can take or steal all things in Skyrim, but see if you can put all these thi
 All swinging skills depends on you whether you want to be thieves or magician.
 8. Trader:
 You can trade your item and get some money for them)
+)
