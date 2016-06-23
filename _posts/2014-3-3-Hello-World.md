@@ -1,4 +1,4 @@
- ---
+---
 layout: Rules of my favourite game
 title: Helpful tasks for new player in Skyrim 
 ---
