@@ -1,6 +1,6 @@
 ---
 layout: Rules of my favourite game
-title: Happy Rainbow
+title: Helpful tasks for new player in Skyrim 
 ---
 
 Hello, my name is Happy Rainbow my blog about nothing it just training.
