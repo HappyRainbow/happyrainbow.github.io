@@ -2,6 +2,7 @@
 layout: post
 title: Arduino
 ---
+
 Hello my friends, yesterday i and my partner Bibinur worked on Arduino.It was amazing, we used a book with helpful tasks to do the missions that teacher give it to us.
 "Arduino is a hardware and software company, project, and user community that designs and manufactures computer open-source hardware, open-source software, and microcontroller-based kits for building digital devices and interactive objects that can sense and control physical devices.
 
