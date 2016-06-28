@@ -3,6 +3,11 @@ layout: post
 title: Helpful tasks for new player in Skyrim 
 ---
 
+
+![_config.yml](http://www.geforce.co.uk/sites/default/files-world/screenshots/elder-scrolls-v-skyrim/screenshot-8.jpg)
+
+
+
 * Hello, my name is Happy Rainbow my blog about nothing it just training.
  i want to say about my favourite game named Skyrim
 * Rules of game
