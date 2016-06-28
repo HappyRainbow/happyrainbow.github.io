@@ -9,4 +9,6 @@ I saw a designer of popular games.
  Thank you very much!
  My nick name in League of Legends:Yudzu
  My nick name in site:YudzuruK :)
+ 
+ 
  ![_config.yml](https://upload.wikimedia.org/wikipedia/ru/7/77/League_of_Legends_logo.png)
