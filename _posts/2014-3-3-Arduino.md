@@ -1,5 +1,5 @@
 ---
-layout: Arduino
+layout: post
 title: Arduino
 ---
 Hello my friends, yesterday i and my partner Bibinur worked on Arduino.It was amazing, we used a book with helpful tasks to do the missions that teacher give it to us.
